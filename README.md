@@ -4,5 +4,5 @@
 2.pandas,matplotlib,seaborn,sklearn
 
 #Screenshots
-![]("Titanic.png")
-![]("Titanic1.png")
+![](titanic.png)
+![](titanic1.png)
